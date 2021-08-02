@@ -100,7 +100,6 @@ public class MarsRover {
                     break;
             }
         }
-
 //		System.out.println("End....." + x + " " + y + " " + direction + " " + command);
     }
 
